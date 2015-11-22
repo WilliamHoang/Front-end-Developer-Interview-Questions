@@ -244,11 +244,14 @@ console.log('three');
 * How do you like your coffee?
 
 #### Algorithm Questions:
+Linked List:
 * Reverse a Linked List
 * Find if a Linked List is a closed List
 * Given an ordered value Linked List, insert a node with a value so to maintain the same order.
 * Given a Linked List, delete a particular node from the List.
 * Given two ordered Linked List respectively, merge the two so that they maintained an overall ascending order 
+
+Tree:
 
 
 #### Contributors:
